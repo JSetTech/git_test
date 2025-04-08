@@ -1,1 +1,4 @@
-Hello Odin!
+Hello Odin! This is my first Git Commit as part of The Odin Project.
+
+I hope to learn a lot in the coming months as I work towards becoming
+a software developer. 
